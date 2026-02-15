@@ -7,7 +7,7 @@ This repository contains structured notes developed during my studies in cyberse
 - VPN Basics
 - Firewall Fundamentals
 - Log Monitoring Basics
-- Linux Permissions & Access Control
+- Linux Permissions & Access Control.
 
 ## Purpose
 
