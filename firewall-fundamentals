@@ -1,0 +1,22 @@
+# Firewall Fundamentals
+
+## What is a Firewall?
+A firewall is a security system that monitors and controls network traffic based on predefined security rules.
+
+## Purpose
+- Block unauthorized access
+- Allow legitimate traffic
+- Protect internal networks
+
+## Types of Firewalls
+- Network firewall
+- Host-based firewall
+- Hardware firewall
+- Software firewall
+
+## Common rules
+- Allow HTTP/HTTPS traffic
+- Block suspicious ports
+- Restrict unauthorized connections
+
+Firewalls are essential for protecting corporate infrastructure.
