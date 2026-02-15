@@ -1,0 +1,45 @@
+# Network Fundamentals
+
+## What is a network?
+
+A network is a group of devices connected to share data and resources.
+
+Examples:
+- Computers
+- Servers
+- Routers
+- Smartphones
+
+## Common network types
+
+### LAN (Local Area Network)
+Small network inside homes, schools, or offices.
+
+### WAN (Wide Area Network)
+Large network connecting multiple locations.
+
+Example: the Internet.
+
+## IP Address
+
+An IP address identifies a device on a network.
+
+Example:
+192.168.1.10
+
+## DNS (Domain Name System)
+
+DNS translates domain names into IP addresses.
+
+Example:
+google.com → 142.250.78.14
+
+## DHCP (Dynamic Host Configuration Protocol)
+
+DHCP automatically assigns IP addresses to devices.
+
+## Why networking knowledge matters
+
+- Enables communication between systems
+- Essential for troubleshooting
+- Critical for cybersecurity defense
