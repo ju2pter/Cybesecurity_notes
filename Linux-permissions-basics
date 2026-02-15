@@ -1,0 +1,85 @@
+# Linux Permissions & Access Control
+
+## Understanding Permissions
+
+Linux uses permissions to control access to files and directories.
+
+There are three permission levels:
+
+- Owner (user)
+- Group
+- Others
+
+## Permission Types
+
+Each level can have three types of permissions:
+
+- Read (r) → view file contents
+- Write (w) → modify file contents
+- Execute (x) → run a file as a program
+
+## Permission Structure
+
+Example:
+
+-rwxr-xr--
+
+
+Breakdown:
+
+- `-` → file type
+- `rwx` → owner permissions
+- `r-x` → group permissions
+- `r--` → others permissions
+
+## Numeric Representation
+
+Permissions can also be represented numerically:
+
+- 4 = read
+- 2 = write
+- 1 = execute
+
+Examples:
+
+- 7 (rwx)
+- 6 (rw-)
+- 5 (r-x)
+- 4 (r--)
+- 0 (---)
+
+Example:
+
+chmod 755 file.sh
+
+
+## Why Permissions Are Important
+
+- Protect sensitive data
+- Prevent unauthorized access
+- Maintain system integrity
+- Reduce security risks
+
+## Basic Commands
+
+### View permissions
+ls -l
+
+
+### Change permissions
+chmod 644 file.txt
+chmod +x script.sh
+
+
+### Change ownership
+chown user:group file.txt
+
+
+## Security Best Practices
+
+- Avoid giving write permission to "others"
+- Use execute permission only when necessary
+- Restrict access to sensitive files
+- Regularly review file permissions
+
+Proper permission management is essential for maintaining system security.
