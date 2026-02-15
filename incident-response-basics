@@ -1,0 +1,33 @@
+# Incident Response Basics
+
+Incident response is the process of handling security breaches or cyberattacks.
+
+## Common security incidents
+
+- Malware infections
+- Unauthorized access
+- Data leaks
+- Suspicious network activity
+
+## Incident response steps
+
+### 1. Identification
+Detect unusual activity.
+
+### 2. Containment
+Limit the damage.
+
+### 3. Eradication
+Remove the threat.
+
+### 4. Recovery
+Restore systems safely.
+
+### 5. Lessons learned
+Analyze and improve defenses.
+
+## Why incident response matters
+
+- Minimizes damage
+- Protects data
+- Improves security posture
