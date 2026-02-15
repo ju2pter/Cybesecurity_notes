@@ -1,0 +1,30 @@
+# Authentication Methods
+
+Authentication verifies the identity of a user or system.
+
+## Common authentication factors
+
+### 1. Something you know
+- Password
+- PIN
+
+### 2. Something you have
+- Security token
+- Smartphone
+
+### 3. Something you are
+- Fingerprint
+- Facial recognition
+
+## Multi-Factor Authentication (MFA)
+
+MFA combines two or more authentication factors.
+
+Example:
+Password + code sent to phone.
+
+## Why authentication is important
+
+- Protects sensitive data
+- Prevents unauthorized access
+- Strengthens system security
